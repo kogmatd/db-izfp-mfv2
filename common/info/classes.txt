@@ -1,0 +1,14 @@
+## UASR class definition file
+## - IZFP Microfluidic Valves Database (Recording 2)
+##
+##   first  column: model name
+##   second column: number of states
+##   third  column: voice/unvoiced information
+##   fourth column: abstract model for SMG reclassification
+
+NEW  1 1.0  -  # Valve new
+USE  1 1.0  -  # Valve used
+WRN  1 1.0  -  # Valve worn
+
+## EOF
+
